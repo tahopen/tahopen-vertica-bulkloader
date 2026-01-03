@@ -1,6 +1,6 @@
 
 
-# pentaho-vertica-bulkloader #
+# tahopen-vertica-bulkloader #
 This is a plugin for performing bulk data loads into a Vertica Analytic Database using a COPY FROM STDIN statement through JDBC
 
 #### TODO/LIMITATIONS:
@@ -43,13 +43,13 @@ Special character encodings?
 How to build
 --------------
 
-pentaho-vertica-bulkloader uses the maven framework. 
+tahopen-vertica-bulkloader uses the maven framework. 
 
 
 #### Pre-requisites for building the project:
 * Maven, version 3+
 * Java JDK 11
-* This [settings.xml](https://raw.githubusercontent.com/pentaho/maven-parent-poms/master/maven-support-files/settings.xml) in your <user-home>/.m2 directory
+* This [settings.xml](https://raw.githubusercontent.com/tahopen/maven-parent-poms/master/maven-support-files/settings.xml) in your <user-home>/.m2 directory
 
 #### Building it
 
